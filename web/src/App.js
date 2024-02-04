@@ -10,8 +10,8 @@ function App() {
       {/* Sample Post Component */}
       <div className="card mb-3">
         <div className="card-body">
-          <h5 className="card-title">Post Title</h5>
-          <p className="card-text">This is a sample post content. You can add more details here.</p>
+          <h5 className="card-title">Community</h5>
+          <p className="card-text"></p>
         </div>
       </div>
 
